@@ -1,0 +1,2 @@
+Prefix plugins/VAggregate/example/
+Plugin VAggregate inputfile ./ outputfile aggregates.csv
